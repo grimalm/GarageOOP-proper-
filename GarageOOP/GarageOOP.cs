@@ -197,7 +197,7 @@ namespace GarageOOP
         public string GetName()
         {
             return Name;
-        }
+        $}
 
         public void GetCarBrand()
         {
